@@ -1,0 +1,1 @@
+# plugins-video-blogster-lite
